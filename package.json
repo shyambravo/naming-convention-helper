@@ -1,0 +1,11 @@
+{
+  "name": "naming-convention-helper",
+  "version": "1.0.0",
+  "description": "This tool will help you to replace bad naming conventions in your js projects and will automatically update your import statements.",
+  "main": "index.js",
+  "scripts": {
+    "startScript": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
